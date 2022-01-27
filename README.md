@@ -41,3 +41,4 @@ Jack L | jacklucia | Spring 2022
 Michael T | MichaelTruong264921 | Spring 2022
 Jason P | OffBeatOsprey | Spring 2022
 Wyatt W | WarriorWyatt100 | Spring 2022
+James R | jamerator7 | Spring 2022
