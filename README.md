@@ -35,6 +35,7 @@ Colin S | Colinnnnnnnn | Spring 2021
 Alyssa J | 0-Avis | Spring 2021
 Mehroz A | helpHELPhelpHLELPHELPHEP | Spring 2021
 Connor P | connorportmann | Spring 2021
+Khang T | VolumeZer0 | Spring 2022
 Nolan L | nolanlassner | spring 2022
 Amelia H | EmmyPrograms | Spring 2022
 Jack L | jacklucia | Spring 2022
@@ -45,4 +46,8 @@ Owen R | Owenr14 | Spring 2022
 Benny H | bennyhernandez | Spring 2022
 Samuel M | Samuel-Meras | Spring 2022
 James R | jamerator7 | Spring 2022
+
 Nathan W | Nathan.whittom | Spring 2022
+
+Connor OD | Connor-OD | Spring 2022
+
