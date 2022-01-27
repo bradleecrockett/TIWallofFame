@@ -40,3 +40,4 @@ Amelia H | EmmyPrograms | Spring 2022
 Jack L | jacklucia | Spring 2022
 Michael T | MichaelTruong264921 | Spring 2022
 Jason P | OffBeatOsprey | Spring 2022
+Wyatt W | WarriorWyatt100 | Spring 2022
