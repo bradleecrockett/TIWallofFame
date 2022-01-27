@@ -44,4 +44,5 @@ Wyatt W | WarriorWyatt100 | Spring 2022
 Owen R | Owenr14 | Spring 2022
 Benny H | bennyhernandez | Spring 2022
 Samuel M | Samuel-Meras | Spring 2022
+James R | jamerator7 | Spring 2022
 Connor OD | Connor-OD | Spring 2022
