@@ -50,5 +50,5 @@ Nathan W | Nathan.whittom | Spring 2022
 Connor OD | Connor-OD | Spring 2022
 Evan B | commonafro | Spring 2022
 Dakotah B | Dakotahdaburch | Fall 2022
+Nathan W | Nathan.whittom | Fall 2022
 Owen R | Owenr14 | Fall 2022
-
