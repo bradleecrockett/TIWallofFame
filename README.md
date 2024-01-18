@@ -62,3 +62,4 @@ Philbert S | aphiru | Spring 2024
 Max T | MaxTarman1 | Spring 2024
 Noelle Givler | noe113ee | Spring 2024
 Dylan B | Dback50 | Spring 2024
+Bradley H | bh123-4 | Spring 2024
