@@ -57,4 +57,10 @@ Braden B | BradenBarba7 | Fall 2022
 Nathan G | Geist-Spieler | Fall 2022
 Sean C | SeanstertheMonster | Fall 2022
 Devin Y | Devin-also-known-as-GoWeegy | Fall 2022
+Luke S | lukesonne06 | Spring 2024
+Philbert S | aphiru | Spring 2024
+Max T | MaxTarman1 | Spring 2024
+Noelle Givler | noe113ee | Spring 2024
+Michael S | mikie1650 | spring 2024 
+Dylan B | Dback50 | Spring 2024
 Bradley H | bh123-4 | Spring 2024
