@@ -58,3 +58,4 @@ Nathan G | Geist-Spieler | Fall 2022
 Sean C | SeanstertheMonster | Fall 2022
 Devin Y | Devin-also-known-as-GoWeegy | Fall 2022
 Max T | MaxTarman1 | Spring 2024
+Noelle Givler | noe113ee | Spring 2024
