@@ -6,6 +6,7 @@ Name | Github User | Year |
 --- | --- | --- |
 Brad C | bradleecrockett | Spring 2018
 Waffeeq R | therealwafeeq | Spring 2018
+<<<<<<< HEAD
 Matthew S | matthewsgames | Spring 2019
 Elizabeth H | elizabethhillman | Spring 2019
 Daryl D | daryldenaga | Spring 2019
@@ -65,3 +66,6 @@ Michael S | mikie1650 | spring 2024
 Dylan B | Dback50 | Spring 2024
 Bradley H | bh123-4 | Spring 2024
 Alex J | slippy | Spring 2024
+=======
+Brad 25 | @bradleecrockett | Spring 2025
+>>>>>>> brad25
